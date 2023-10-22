@@ -33,3 +33,4 @@ Sourcing & Analyzing Time Series Data
 Creating Data Dashboards with Tableau
 
 Reporting results: providing an dashboard on Tableau presenting all the condacted analisys and conclusions as well as documenting the data population flow, consistency checks, data wrangling, and column derivations.
+Tableau Storyboard https://public.tableau.com/app/profile/petar.kletnikoski/viz/CareerFoundryTask6_7_UniversityRankingAnalisysP_Kletnikoski/Story1?publish=yes
